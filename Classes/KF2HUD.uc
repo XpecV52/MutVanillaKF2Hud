@@ -1,4 +1,4 @@
-class KF2HUD extends SXKHudBase;
+class KF2HUD extends KF2HudBase;
 
 
 #EXEC OBJ LOAD FILE=KF2Hud_A.ukx PACKAGE=MutKF2Hud
