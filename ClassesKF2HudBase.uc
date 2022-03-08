@@ -1,6 +1,5 @@
-class SXKHudBase extends HUDKillingFloor;
+class KF2HudBase extends HUDKillingFloor;
 
-var protected class<KF2SCBScoreboard> KF2ScoreBoardClass; // modder friendly interface
 var protected transient float MsgTopY; // top Y coordinate up upper console message displayed on the HUD
 
 function PostBeginPlay()
