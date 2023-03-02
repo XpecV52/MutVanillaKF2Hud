@@ -1,33 +1,25 @@
 # MutVanillaKF2Hud
-KF2HUDMut for Vanilla KF1(Killing Floor 1), No SCRN, No ServerPerks, No GLAM
-
-Already had it earlier, share it now.
-
-Download & extract zip file, then put them into thy KF root folder, then compile.
-
-
-# MutatorName
 
 [![GitHub all releases](https://img.shields.io/github/downloads/XpecV52/MutVanillaKF2Hud/total)](https://github.com/XpecV52/MutVanillaKF2Hud/releases)
 
 
-* Fixed a bug, when forcing a mapswitch as an admin was picking an initial voting.
-* a
+* KF2HUDMut for Vanilla KF1(Killing Floor 1), No SCRN, No ServerPerks, No GLAM.
+* The font uses Texgyre, the same as KF2, and supports Chinese characters and other language characters.
 
 ## Installation
 
 ```cpp
-MutVanillaKF2Hud.MutVanillaKF2Hud
+MutKF2Hud.KF2HudM
 ```
 
 ## Building and Dependancies
 
-At the moment of 2021.03.27 there are no dependencies.
+Download & extract zip file, then put them into thy KF root folder.
 
 Use [KF Compile Tool](https://github.com/InsultingPros/KFCompileTool) for easy compilation.
 
 **EditPackages**
 
 ```cpp
-EditPackages=MutVanillaKF2Hud
+EditPackages=MutKF2Hud
 ```
